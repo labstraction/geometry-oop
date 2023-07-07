@@ -16,6 +16,8 @@ console.log(triangle1);
 console.log(triangle1.perimeter);
 
 
+console.log(triangle1.area)
+console.log(triangle1.isRectangle())
 
 
 
